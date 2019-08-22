@@ -1,5 +1,5 @@
 package Abstract;
 
 public interface ButtonI {
-    void paint1();
+    void paint();
 }
